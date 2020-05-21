@@ -46,11 +46,11 @@
        	],
      ```
    * 权限页面展示
-    ![权限编辑](./images/001.png "权限编辑")
+    ![权限编辑](https://lufeijun1234.com/uploads/git/front-vue-element-admin-001.png "权限编辑")
 
 
 2. 路由权限设置部分
-    ![权限编辑](./images/002.png "权限编辑")
+    ![权限编辑](https://lufeijun1234.com/uploads/git/front-vue-element-admin-002.png "权限编辑")
 
 
 3. 改进方向
